@@ -1,2 +1,5 @@
 lorem
 platform for frontend developers, providing the speed and reliability innovators need to create at the moment of inspiration.
+
+QA Engineer
+Steps to follow in order to become a modern QA Engineer in 2023
